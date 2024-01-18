@@ -1,0 +1,9 @@
+.boton{
+    width: 100px;
+    height: 100px;
+    font-size: 50px;
+    border: none;
+    cursor: pointer;
+    background-color: aqua;
+    border-radius: 100%;
+}
